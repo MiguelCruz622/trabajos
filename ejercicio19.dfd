@@ -1,0 +1,55 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+25
+'Dime cual es tu puntaje'
+5
+1
+1
+p
+7
+0
+1
+6
+p<=100
+7
+0
+1
+6
+p>=101
+7
+0
+1
+5
+p>150
+13
+4
+1
+36
+'Tu premio es de 3 salarios minimos'
+13
+13
+7
+0
+1
+6
+p<=150
+13
+4
+1
+36
+'Tu premio es de 2 salarios minimos'
+13
+13
+13
+4
+1
+32
+'Tu premio es un salario minimo'
+13
+1

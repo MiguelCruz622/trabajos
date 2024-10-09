@@ -1,0 +1,88 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+3
+1
+x
+1
+1
+1
+r
+8
+'miguel'
+1
+p
+5
+12345
+9
+1
+4
+x<=3
+4
+1
+40
+'ingrese el usuario en comillas simples'
+5
+1
+1
+u
+4
+1
+23
+'Ingrese su contraseña'
+5
+1
+1
+c
+7
+0
+1
+3
+u=r
+4
+1
+32
+'Capatura nuevamente tu usuario'
+13
+4
+1
+24
+'El usuario es correcto'
+6
+1
+1
+x
+3
+x+2
+7
+0
+1
+3
+p=c
+4
+1
+33
+'Usuario o contraseña incorrecta'
+13
+4
+1
+21
+'Contraseña correcta'
+4
+1
+31
+'Bienvenido a la base de datos'
+6
+1
+1
+x
+3
+x+4
+13
+13
+11
+1
